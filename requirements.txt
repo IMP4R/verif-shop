@@ -1,0 +1,7 @@
+pysqlite3 
+aiogram 
+dotenv 
+python-dotenv 
+aiohttp 
+qrcode 
+Pillow
